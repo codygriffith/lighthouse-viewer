@@ -10,6 +10,7 @@
     "/dist",
     "/types"
   ],
+  "type": "module",
   "exports": {
     ".": {
       "import": "./dist/lighthouse-viewer.es.js",
